@@ -1,4 +1,7 @@
-一共10个.m文件，各自作用简单介绍如下：
+这是一篇论文的仿真，论文题目是Class-Dependent Sparse Representation Classifier for Robust Hyperspectral Image Classification
+效果并不是很好，只是实现基本功能，参数设置还有待仔细调整。
+
+一共10个.m文件，各自作用简单介绍如下（有些实际上没有用到）：
 
 cdSRC.m  主程序
 normalize_data.m  用来对原始数据归一化
